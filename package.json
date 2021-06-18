@@ -1,0 +1,22 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "API do projeto NextYa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeHNS/API.git"
+  },
+  "author": "Guilherme Henrique Novaes de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeHNS/API/issues"
+  },
+  "homepage": "https://github.com/GuilhermeHNS/API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
